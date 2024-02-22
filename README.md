@@ -8,8 +8,9 @@ To contact me on Linkedin
 
 to contact me in Gmail:
 <!-- Logo Gmail -->
-<a href="mailto:afqirayoub2001@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="C:\Users\Dell\Downloads\gmail.png" alt="Gmail Logo" width="30" height="30">
+<a href="mailto:afqirayoub2001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo">
 </a>
+
 
 
